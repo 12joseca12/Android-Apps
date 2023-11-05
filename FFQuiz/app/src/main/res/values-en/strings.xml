@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FFQuiz</string>
+    <string name="pregunta1">Question 1</string>
+    <string name="pregunta2">Question 2</string>
+    <string name="pregunta3">Question 3</string>
+    <string name="enunciado1">¿Who is the best racer?</string>
+    <string name="enunciado2">¿Who is the most iconic character?</string>
+    <string name="enunciado3">¿Who is the best femenin character?</string>
+    <string name="botonA">A</string>
+    <string name="botonB">B</string>
+    <string name="botonC">C</string>
+    <string name="pie1">Toreto</string>
+    <string name="pie2">DK</string>
+    <string name="pie3">Santos</string>
+    <string name="pie4">Brian</string>
+    <string name="pie5">Vicent</string>
+    <string name="pie6">Braga</string>
+    <string name="pie7">Mia</string>
+    <string name="pie8">Leti</string>
+    <string name="pie9">Lesli</string>
+</resources>

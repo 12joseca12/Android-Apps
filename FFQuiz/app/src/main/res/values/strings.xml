@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FFQuiz</string>
+    <string name="pregunta1">Pregunta 1</string>
+    <string name="pregunta2">Pregunta 2</string>
+    <string name="pregunta3">Pregunta 3</string>
+    <string name="enunciado1">¿Quien es el mejor corredor?</string>
+    <string name="enunciado2">¿Cual es el personaje más emblemático?</string>
+    <string name="enunciado3">¿Cual es el mejor personaje femenino?</string>
+    <string name="botonA">A</string>
+    <string name="botonB">B</string>
+    <string name="botonC">C</string>
+    <string name="pie1">Toreto</string>
+    <string name="pie2">DK</string>
+    <string name="pie3">Santos</string>
+    <string name="pie4">Brian</string>
+    <string name="pie5">Vicent</string>
+    <string name="pie6">Braga</string>
+    <string name="pie7">Mia</string>
+    <string name="pie8">Leti</string>
+    <string name="pie9">Lesli</string>
+</resources>

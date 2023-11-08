@@ -3,4 +3,7 @@
     <string name="titulo">Adivina la foto incorrecta</string>
     <string name="button1_content">Siguiente</string>
     <string name="button2_content">Finalizar</string>
+    <string name="retroceder">retroceder</string>
+    <string name="fallostexto">Fallos totales: </string>
+    <string name="actexto">Aciertos totales: </string>
 </resources>

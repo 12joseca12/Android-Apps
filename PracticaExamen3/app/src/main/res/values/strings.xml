@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticaExamen3</string>
+    <string name="titulo">CarQuizz</string>
+    <string name="enunciado1">¿Qué coche conduce en la primera película?</string>
+    <string name="enunciado2">¿Qué coche conduce en la segunda película?</string>
+    <string name="enunciado3">¿Qué coche conduce en la sexta película?</string>
+    <string name="textBtnC">C</string>
+    <string name="textBtnA">A</string>
+    <string name="textBtnB">B</string>
+    <string name="textVA1">Challenger</string>
+    <string name="textVB1">RX7</string>
+    <string name="textVC1">NSX</string>
+    <string name="textVA2">GTR</string>
+    <string name="textVB2">Supra</string>
+    <string name="textVC2">Evo</string>
+    <string name="textVA3">Mustang</string>
+    <string name="textVB3">Shelby</string>
+    <string name="textVC3">SS</string>
+</resources>

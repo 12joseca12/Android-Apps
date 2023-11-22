@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     private void configurar(Pregunta preguntaActual){
         title.setText(preguntaActual.getEnunciado());
         imagen.setImageResource(preguntaActual.getIdImagen());

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenSanchezJoseCarlos</string>
+    <string name="tvSalaG">Sala General</string>
+    <string name="tvContSGtxt">0</string>
+    <string name="txtbtSumaSG">+</string>
+    <string name="btRestaSGtxt">-</string>
+    <string name="tvSalon1txt">Salon 1</string>
+    <string name="tvContS1txt">0</string>
+</resources>

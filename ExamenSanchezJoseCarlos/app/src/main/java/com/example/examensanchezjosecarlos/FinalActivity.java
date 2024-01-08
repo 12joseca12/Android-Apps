@@ -27,6 +27,11 @@ public class FinalActivity extends AppCompatActivity {
         int contFS1=i.getIntExtra("contS1",0);
         int contFTotal=i.getIntExtra("contTotal",0);
 
+
+
+
+
+
         tvFinalSG=findViewById(R.id.tvFSG);
         tvFinalS1=findViewById(R.id.tvFS1);
         tvFinalTotal=findViewById(R.id.tvFTot);
